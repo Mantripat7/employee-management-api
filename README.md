@@ -56,7 +56,7 @@ employee-management-api/
 ## 📑 API Documentation (Swagger)
 
 Swagger UI is available at:
-http://127.0.0.1:8000/docs/
+https://hobatconnect.onrender.com/docs/
 The Swagger interface supports JWT authentication and can be used for testing all secured endpoints.
 
 
